@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <h1>Statistiques des Joueurs</h1>
+    <h1>Statistiques des Joueuse</h1>
     <table id="stats-table">
         <thead>
             <tr>
