@@ -18,10 +18,10 @@
         <tbody>
             <!-- Ajoutez les données des statistiques offensives ici -->
             <tr>
-                <td>Dupont</td>
-                <td>Marie</td>
-                <td>12</td>
-                <td>8</td>
+                <td>Robin</td>
+                <td>Parra</td>
+                <td>35</td>
+                <td>37</td>
                 <td>5</td>
             </tr>
             <!-- Autres joueuses -->
