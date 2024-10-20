@@ -8,7 +8,7 @@
 <body>
     <nav>
         <ul>
-            <li><a href="offensive.html">Statistiques Offensives</a></li>
+            <li><a href="OFF.md">Statistiques Offensives</a></li>
             <li><a href="defensive.html">Statistiques Défensives</a></li>
         </ul>
     </nav>
