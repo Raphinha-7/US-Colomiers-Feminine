@@ -28,7 +28,7 @@
         </tbody>
     </table>
     <nav>
-        <a href="index.html">Retour à l'accueil</a>
+        <a href="README.md">Retour à l'accueil</a>
         <a href="defensive.html">Voir Statistiques Défensives</a>
     </nav>
 </body>
