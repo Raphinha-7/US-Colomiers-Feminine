@@ -1,5 +1,4 @@
 # Senior Féminine U.S Colomiers Saison 24/25
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
