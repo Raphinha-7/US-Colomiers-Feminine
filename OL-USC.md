@@ -8,7 +8,8 @@
     <img src="https://cdn.ssref.net/req/1/images/fb/pitch.svg" alt="football pitch for squad formations">
 <table id="stats-table">
         <thead>
-            <tr>
+            <tr>           
+                <th>N°</th>
                 <th>Nom</th>
                 <th>Prénom</th>
                 <th>BUTS</th>
@@ -26,6 +27,7 @@
         <tbody>
             <!-- Ajoutez les données des statistiques offensives ici -->
             <tr>
+                <td>6</td>
                 <td>Robin</td>
                 <td>Parra</td>
                 <td>35</td>
