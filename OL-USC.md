@@ -5,7 +5,28 @@
 </head>
 <body>
     <h1>OL/USC</h1>
-<a href="DATA.xlsx" download>Télécharger le fichier Excel</a>
+<table id="stats-table">
+        <thead>
+            <tr>
+                <th>Nom</th>
+                <th>Prénom</th>
+                <th>Matchs Joués</th>
+                <th>Buts Marqués</th>
+                <th>Passes Décisives</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Ajoutez les données des statistiques offensives ici -->
+            <tr>
+                <td>Robin</td>
+                <td>Parra</td>
+                <td>35</td>
+                <td>37</td>
+                <td>5</td>
+            </tr>
+            <!-- Autres joueuses -->
+        </tbody>
+    </table>
 
 
 </body>
