@@ -41,11 +41,11 @@
         </thead>
         <tbody>
             <tr>
-                <td>Dupont</td>
-                <td>Marie</td>
-                <td>25</td>
-                <td>12</td>
-                <td>8</td>
+                <td>Robin</td>
+                <td>Parra</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
             </tr>
             <tr>
                 <td>Legrand</td>
